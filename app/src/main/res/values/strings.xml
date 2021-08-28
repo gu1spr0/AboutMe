@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="text_nombre">Israel</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Contrary to popular belief
+        \nLorem Ipsum is not simply random text.
+        \nIt has roots in a piece of classical Latin literature from 45 BC,
+        \nmaking it over 2000 years old.
+        \n\nRichard McClintock, a Latin professor at
+        \nHampden-Sydney College in Virginia, looked up one of the more obscure
+        \nLatin words, consectetur, from a Lorem Ipsum passage,
+        \nand going through the cites of the word in classical literature,
+        \ndiscovered the undoubtable source.
+        \n\nLorem Ipsum comes from sections 1.10.32 and 1.10.33
+        \nof “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil)
+        \nby Cicero, written in 45 BC. This book is a treatise on the theory
+        \nof ethics, very popular during the Renaissance.
+        \nThe first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”,
+        \ncomes from a line in section 1.10.32.\n\n</string>
+    <string name="hint_nickname">Ingrese su nombre</string>
+    <string name="done">Done</string>
+</resources>
